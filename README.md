@@ -1,1 +1,1 @@
-# JavaFinalProject_Dango_Lanhiel-Kenn
+# JavaFinalProject_Dango_Lanhiel Kenn
